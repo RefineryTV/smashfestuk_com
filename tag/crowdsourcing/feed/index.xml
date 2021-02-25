@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Crowdsourcing</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Fri, 01 Apr 2016 12:25:39 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Crowdsourcing An Apocalypse</title>
+		<link>./../../../crowdsourcing-an-apocalypse/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2015 15:50:51 +0000</pubDate>
+				<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[Apocalypse]]></category>
+		<category><![CDATA[Crowdsourcing]]></category>
+		<category><![CDATA[Middlesex University]]></category>
+		<category><![CDATA[Preparation]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=515</guid>
+
+					<description><![CDATA[SMASHfestUK has been created to engage young people in STEM subjects through participatory stories, and activities. These activities will eventually manifest as parts of a strong crowdsourced narrative. Some of our potential participants have already started working on their involvement in the festival. Here are students at the Middlesex University<a class="moretag" href="./../../../crowdsourcing-an-apocalypse/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<p>SMASHfestUK has been created to engage young people in STEM subjects through participatory stories, and activities. These activities will eventually manifest as parts of a strong crowdsourced narrative.</p>
+<p>Some of our potential participants have already started working on their involvement in the festival. Here are students at the Middlesex University gearing up for the final showdown&#8230;</p>
+<div id="attachment_516" style="width: 1034px" class="wp-caption alignnone"><a href="./../../../wp-content/uploads/2015/01/photo-2.jpg"><img aria-describedby="caption-attachment-516" loading="lazy" class="size-large wp-image-516" src="./../../../wp-content/uploads/2015/01/photo-2-1024x768.jpg" alt="Showdown at Preparations Middlesex Uni" width="1024" height="768" srcset="./../../../wp-content/uploads/2015/01/photo-2-1024x768.jpg 1024w, ./../../../wp-content/uploads/2015/01/photo-2-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><p id="caption-attachment-516" class="wp-caption-text">Showdown at Preparations Middlesex Uni</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

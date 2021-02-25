@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Suze Kundu</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Fri, 01 Apr 2016 12:25:38 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>SMASHfestUK Talks Series Kicks Off with Nanotech</title>
+		<link>./../../../smashfestuk-talks-series-kicks-off-with-nanotech/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2015 16:30:03 +0000</pubDate>
+				<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[asteroid]]></category>
+		<category><![CDATA[Middlesex University]]></category>
+		<category><![CDATA[Nanotech]]></category>
+		<category><![CDATA[smashfestUK]]></category>
+		<category><![CDATA[Suze Kundu]]></category>
+		<category><![CDATA[Talks]]></category>
+		<category><![CDATA[world end]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=520</guid>
+
+					<description><![CDATA[Dr Suze Kundu, launches the SMASHfestUK series of talks this evening with &#8220;How nanotech can save us post-asteroid-impact!&#8221; at Middlesex University. For Science!!!!]]></description>
+										<content:encoded><![CDATA[<p>Dr Suze Kundu, launches the SMASHfestUK series of talks this evening with &#8220;How nanotech can save us post-asteroid-impact!&#8221; at Middlesex University.</p>
+<p>For Science!!!!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

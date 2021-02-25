@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>school</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Thu, 05 Feb 2015 10:17:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Lewisham Youth Conference 2015</title>
+		<link>./../../../lewishamyouthconference2015/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2015 10:15:13 +0000</pubDate>
+				<category><![CDATA[Events2016]]></category>
+		<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[21st February]]></category>
+		<category><![CDATA[career]]></category>
+		<category><![CDATA[careers]]></category>
+		<category><![CDATA[choices]]></category>
+		<category><![CDATA[Deptford Lounge]]></category>
+		<category><![CDATA[goldsmiths]]></category>
+		<category><![CDATA[Middlesex University]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[smashfestUK]]></category>
+		<category><![CDATA[South east London]]></category>
+		<category><![CDATA[Stephen Lawrence Centre]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=936</guid>
+
+					<description><![CDATA[Goldsmiths University Saturday 21st February TICKETS: Free but you must register in advance All of the stories and events at SMASHfestUK are inspired by, and designed to uncover how studying subjects in science, technology, engineering and maths can be useful in a myriad of jobs and careers. From architecture, to construction,<a class="moretag" href="./../../../lewishamyouthconference2015/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<h2>Goldsmiths University</h2>
+<h3>Saturday 21st February</h3>
+<h4>TICKETS: <a href="http://www.lyc2015.co.uk/register-your-tickets/" target="_blank">Free but you must register in advance</a></h4>
+<p>All of the stories and events at SMASHfestUK are inspired by, and designed to uncover how studying subjects in science, technology, engineering and maths can be useful in a myriad of jobs and careers. From architecture, to construction, from plumbing to sanitation and humanitarian work, from music and film to health and beauty, zoology and lots more, a basic grounding in STEM can open doors to all kind of futures. It also gives you a solid grounding in critical thinking which is useful no matter what you decide to do with your life. The idea that a studying science can only lead to a job in a laboratory wearing a white coat is now history! Come and find out more!</p>
+<p><a href="http://www.lyc2015.co.uk/"><img loading="lazy" class="aligncenter size-large wp-image-937" src="./../../../wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-10.01.41-1024x607.png" alt="Screen Shot 2015-02-05 at 10.01.41" width="700" height="415" srcset="./../../../wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-10.01.41-1024x607.png 1024w, ./../../../wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-10.01.41-300x178.png 300w, ./../../../wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-10.01.41-460x273.png 460w, ./../../../wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-10.01.41-688x408.png 688w, ./../../../wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-10.01.41.png 1223w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<div class="infobox_wrapper">LYC 2015 aims to provide young people with an <strong>empowering and inspiring</strong> environment offering a wealth of knowledge in the form of information stands, educational workshops and entertainment! Elevating Success – working in partnership with Lewisham Homes &#8211; the main sponsor, is committed to improving the life chances of young people in its communities. This event will inspire and empower the young people attending, with the ultimate aim of attendees leaving with the knowledge and motivation needed to achieve their dreams. If you would like to book your free ticket to the event, simply fill in the sign up form <a href="http://www.lyc2015.co.uk/register-your-tickets/" target="_blank"><span style="text-decoration: underline;">here</span>.</a> We&#8217;ll see you there!</div>
+<div class="infobox_wrapper"></div>
+<div class="infobox_wrapper"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

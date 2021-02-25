@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>field test</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Fri, 01 Apr 2016 12:25:38 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Patient Zero: Monday 16th February and Wednesday 18th February</title>
+		<link>./../../../patientzero/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2015 11:17:29 +0000</pubDate>
+				<category><![CDATA[Events2016]]></category>
+		<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[16th February]]></category>
+		<category><![CDATA[18th February]]></category>
+		<category><![CDATA[Albany Theatre]]></category>
+		<category><![CDATA[Deptford Lounge]]></category>
+		<category><![CDATA[field test]]></category>
+		<category><![CDATA[smashfestUK]]></category>
+		<category><![CDATA[South east London]]></category>
+		<category><![CDATA[world end]]></category>
+		<category><![CDATA[Zombie]]></category>
+		<category><![CDATA[zombies]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=782</guid>
+
+					<description><![CDATA[Patient Zero: Albany Theatre/Deptford Lounge Monday 16th February &#8211; drop-in Wednesday 18th February &#8211; drop-in In the aftermath of an asteroid strike in South London, we believe the water supply has become contaminated. Some who have drunk from it are beginning to display worrying symptoms. A shuffling gait, eruptions and<a class="moretag" href="./../../../patientzero/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<h1><a href="./../../../wp-content/uploads/2015/01/BMR7131.jpg"><br />
+</a>Patient Zero:</h1>
+<h3>Albany Theatre/Deptford Lounge</h3>
+<h4>Monday 16th February &#8211; drop-in</h4>
+<h4>Wednesday 18th February &#8211; drop-in</h4>
+<p>In the aftermath of an asteroid strike in South London, we believe the water supply has become contaminated. Some who have drunk from it are beginning to display worrying symptoms. A shuffling gait, eruptions and oozing skin and a seeming fearlessness. Yes a zombie apocalypse could be about to hit us, but how will we know who is infected? How far might it spread? In this interactive game we will watch as &#8220;infected&#8221; individuals move among us and interact with SMASHfestUK festival goers, silently spreading their deadly menace. Pick up a vial from the Albany Theatre or the Deptford Lounge and take the gamble as we see who are the lucky ones&#8230;..and who becomes <strong><em>contaminated!</em></strong></p>
+<p style="text-align: center;"><a href="./../../../wp-content/uploads/2015/01/BMR7131.jpg"><img loading="lazy" class=" size-medium wp-image-793 alignnone" src="./../../../wp-content/uploads/2015/01/BMR7131-300x186.jpg" alt="BMR7131" width="300" height="186" srcset="./../../../wp-content/uploads/2015/01/BMR7131-300x186.jpg 300w, ./../../../wp-content/uploads/2015/01/BMR7131-1024x633.jpg 1024w, ./../../../wp-content/uploads/2015/01/BMR7131-460x284.jpg 460w, ./../../../wp-content/uploads/2015/01/BMR7131-688x425.jpg 688w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h2 style="text-align: center;"> PATIENT ZERO &#8211; watch it spread.</h2>
+<p style="text-align: center;"><img loading="lazy" class="ngg_displayed_gallery mceItem" src="./../../../nextgen-attach_to_post/preview/id--1120/index.html" alt="" width="587" height="440" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Camera, Lights, Arghhh!!!</title>
+		<link>./../../../camera-lights-arghhh/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2015 15:39:41 +0000</pubDate>
+				<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[field test]]></category>
+		<category><![CDATA[make up]]></category>
+		<category><![CDATA[zombies]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=513</guid>
+
+					<description><![CDATA[SMASHfestUK is now in full pre-production, and we&#8217;ve started testing out things like the fright factor, make-up, and much more&#8230;]]></description>
+										<content:encoded><![CDATA[<p>SMASHfestUK is now in full pre-production, and we&#8217;ve started testing out things like the fright factor, make-up, and much more&#8230;</p>
+<p><iframe title="How will YOU survive a Zombie Apocalypse? Behind the scene&#039;s of SMASHfestUK." width="750" height="563" src="https://www.youtube.com/embed/6qU0uF0RxEM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

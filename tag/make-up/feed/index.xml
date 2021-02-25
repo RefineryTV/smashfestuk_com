@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>make up</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Fri, 01 Apr 2016 12:25:38 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Camera, Lights, Arghhh!!!</title>
+		<link>./../../../camera-lights-arghhh/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2015 15:39:41 +0000</pubDate>
+				<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[field test]]></category>
+		<category><![CDATA[make up]]></category>
+		<category><![CDATA[zombies]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=513</guid>
+
+					<description><![CDATA[SMASHfestUK is now in full pre-production, and we&#8217;ve started testing out things like the fright factor, make-up, and much more&#8230;]]></description>
+										<content:encoded><![CDATA[<p>SMASHfestUK is now in full pre-production, and we&#8217;ve started testing out things like the fright factor, make-up, and much more&#8230;</p>
+<p><iframe title="How will YOU survive a Zombie Apocalypse? Behind the scene&#039;s of SMASHfestUK." width="750" height="563" src="https://www.youtube.com/embed/6qU0uF0RxEM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

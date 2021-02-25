@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Royal Institution</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Fri, 01 Apr 2016 12:25:39 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Hack your Home with the Royal Institution. 21st February</title>
+		<link>./../../../hack-your-home/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Sun, 25 Jan 2015 13:51:51 +0000</pubDate>
+				<category><![CDATA[Events2016]]></category>
+		<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[21st February]]></category>
+		<category><![CDATA[The Royal Institution]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=619</guid>
+
+					<description><![CDATA[Family Fun Day: Sparks will fly The Royal Institution Saturday, 21 February 2015 from 11:00 to 16:00 (GMT) London, United Kingdom A revolution is happening. Across the world people are taking control of the devices we use every day, customising them, creating new things and using the sparks of their<a class="moretag" href="./../../../hack-your-home/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<h1><span class="summary">Family Fun Day: Sparks will fly</span></h1>
+<h2><a href="http://www.rigb.org/" target="_blank">The Royal Institution</a></h2>
+<p>Saturday, 21 February 2015 from 11:00 to 16:00 (GMT)</p>
+<div id="event_network">
+<h2>London, United Kingdom</h2>
+<div>A revolution is happening. Across the world people are taking control of the devices we use every day, customising them, creating new things and using the sparks of their imagination to change the world. Now it’s your turn, and you can start with the things you have around you.</div>
+<div></div>
+<div> <a href="./../../../wp-content/uploads/2015/01/hackyourhome.jpg"><img loading="lazy" class="alignnone size-full wp-image-540" src="./../../../wp-content/uploads/2015/01/hackyourhome.jpg" alt="hackyourhome" width="480" height="270" srcset="./../../../wp-content/uploads/2015/01/hackyourhome.jpg 480w, ./../../../wp-content/uploads/2015/01/hackyourhome-300x168.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></div>
+<div></div>
+<div></div>
+<div></div>
+<div>TICKETS: <a title="Hack your Home - Sparks Will Fly" href="http://www.rigb.org/whats-on/events-2015/february/public-family-fun-day-sparks-will-fly" target="_blank">http://www.rigb.org/whats-on/events-2015/february/public-family-fun-day-sparks-will-fly</a></div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

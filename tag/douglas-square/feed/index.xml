@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Douglas Square</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Mon, 09 Feb 2015 17:47:47 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Camera! Lights!! Are You A Zombie?</title>
+		<link>./../../../are-you-a-zombie/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2015 17:39:22 +0000</pubDate>
+				<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[12 February]]></category>
+		<category><![CDATA[armageddon]]></category>
+		<category><![CDATA[Douglas Square]]></category>
+		<category><![CDATA[Film]]></category>
+		<category><![CDATA[smashfestUK]]></category>
+		<category><![CDATA[Zombie]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=963</guid>
+
+					<description><![CDATA[ZOMBIES! HELP! HELP!! HELP!!! Want to be in our Zombie Apocalypse Film? Ready to channel your inner Zombie before heading to work, or school? Have two hours to spare on Thursday morning in South London? Then join a Zombie Horde laying siege to The Albany, Douglas Sq on Thursday morning. This<a class="moretag" href="./../../../are-you-a-zombie/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<p>ZOMBIES! HELP! HELP!! HELP!!!</p>
+<p>Want to be in our Zombie Apocalypse Film? Ready to channel your inner Zombie before heading to work, or school? Have two hours to spare on Thursday morning in South London?</p>
+<p>Then join a Zombie Horde laying siege to The Albany, Douglas Sq on Thursday morning.</p>
+<div class="text_exposed_show">
+<p>This is part of SMASHfestUK, a week long series of events to engage young people in science, technology, engineering, maths, and medicine subjects through participatory stories.</p>
+<p>Time: 7.30am.<br />
+Location: Douglas Sq, Deptford. London. SE8 4AG.</p>
+<p>For more details: yomi@smashfestuk.com</p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

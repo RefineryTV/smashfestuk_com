@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sponsorship</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Tue, 23 Feb 2016 12:21:19 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>Vound Software partners with SMASHfestUK</title>
+		<link>./../../../vound-software-partners-with-smashfestuk/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Tue, 23 Feb 2016 12:21:19 +0000</pubDate>
+				<category><![CDATA[Front Page Posts]]></category>
+		<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[partnerships]]></category>
+		<category><![CDATA[sponsorship]]></category>
+		<category><![CDATA[vound]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1407</guid>
+
+					<description><![CDATA[For 2016, and beyond, international eDiscovery company Vound Software will be sponsoring SMASHfestUK to support their mission of inspiring and developing the next generation of creative problem solvers worldwide. Vound blogged about Solar Storm, the 2016 story: “Imagine this, no more TV, no heat, no phones, no social media, the<a class="moretag" href="./../../../vound-software-partners-with-smashfestuk/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<p>For 2016, and beyond, international eDiscovery company Vound Software will be sponsoring SMASHfestUK to support their mission of inspiring and developing the next generation of creative problem solvers worldwide.</p>
+<p>Vound blogged about Solar Storm, the 2016 story:</p>
+<p>“Imagine this, no more TV, no heat, no phones, no social media, the transport system has ground to a halt…How will we create power? How can we harness other sources of energy to help build a new future? Come along to South London and help us use science and creativity to solve this catastrophic problem.</p>
+<p>As creative problem solving is a skill that will be in high demand for those who wish to enter into careers that involve email investigation and eDiscovery. Vound-Software.com and SMASHfestUK are working together to encourage individuals to use the creative problem solving element all of us have to come up with solutions that will help society as a whole survive a catastrophic event such as this.</p>
+<p>A free STEM/Arts/Design festival, SMASHfestUK is created around a compelling story; a massive solar storm is forecast which wipes out our electrical and electronic infrastructure, throwing us back to the mechanical age: How will we cope without our phones, tablets and social media? How will we survive as our networks, power, transport, medical and supply chains collapse?&#8221;</p>
+<p>The deal helps develop SMASHfestUK&#8217;s existing partnerships with software and coding organisations.</p>
+<p>In 2016 SMASHfestUK have also partnered for the first time with Code Club https://www.codeclub.org.uk,/ a UK wide network of volunteer-led after school coding clubs for children aged 9-11, to give participants a chance to try out computer coding, as part of the festival.</p>
+<p>Middlesex University, SMASHfestUK’s lead academic partner, is a leader in Visual Analytics and Computer Forensics, and continues to give huge support to development and delivery of the festival.</p>
+<p>http://www.mdx.ac.uk/courses/computer-science-engineering-and-maths/Computer-and-communications-engineering</p>
+<p>http://www.mdx.ac.uk/courses/postgraduate/visual-analytics</p>
+<p>Founded in 2008, Vound is a leading global vendor of technology used for forensic search, eDiscovery and information governance.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>survival village</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Fri, 20 Feb 2015 13:24:53 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>SMASHfestUK Survival Village</title>
+		<link>./../../../survivalvillage/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2015 11:21:01 +0000</pubDate>
+				<category><![CDATA[Events2016]]></category>
+		<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[14 - 22 February]]></category>
+		<category><![CDATA[Albany Theatre]]></category>
+		<category><![CDATA[smashfestUK]]></category>
+		<category><![CDATA[survival]]></category>
+		<category><![CDATA[survival village]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=906</guid>
+
+					<description><![CDATA[ALBANY THEATRE GARDEN 16TH &#8211; 22ND FEBRUARY SPECIAL BUILD WORKSHOPS FOR 5-16&#8217;S MONDAY 16TH FEBRUARY 2015 1000-1700 In the aftermath of a disaster (lets just say for case of argument, a massive asteroid lands on London!) creating shelter from the elements and re-establishing a sense of community is all-important.  Come and<a class="moretag" href="./../../../survivalvillage/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<p>ALBANY THEATRE GARDEN 16TH &#8211; 22ND FEBRUARY</p>
+<p style="text-align: center;">SPECIAL BUILD WORKSHOPS FOR 5-16&#8217;S MONDAY 16TH FEBRUARY 2015 1000-1700</p>
+<p style="text-align: center;">In the aftermath of a disaster (lets just say for case of argument, a massive asteroid lands on London!) creating shelter from the elements and re-establishing a sense of community is all-important.  Come and join in our survival village at The Albany Theatre Garden. Learn how to make shelters from materials you find lying around that can protect you from the elements. Have a bash at making a geodesic dome out of simple plastic pipes. Come and sit around the campfire and figure out how to make the place feel like home. Whether you&#8217;re a dab hand with a paintbrush and paints or never picked up a power tool in your life, come and build with us!</p>
+<p style="text-align: center;"><a href="./../../../wp-content/uploads/2015/02/IMG_4505.jpg"><img loading="lazy" class="aligncenter size-large wp-image-1068" src="./../../../wp-content/uploads/2015/02/IMG_4505-1024x768.jpg" alt="IMG_4505" width="700" height="525" srcset="./../../../wp-content/uploads/2015/02/IMG_4505-1024x768.jpg 1024w, ./../../../wp-content/uploads/2015/02/IMG_4505-300x225.jpg 300w, ./../../../wp-content/uploads/2015/02/IMG_4505-460x345.jpg 460w, ./../../../wp-content/uploads/2015/02/IMG_4505-688x516.jpg 688w" sizes="(max-width: 700px) 100vw, 700px" /></a><img loading="lazy" class="ngg_displayed_gallery mceItem" src="./../../../nextgen-attach_to_post/preview/id--1085/index.html" alt="" width="703" height="527" /></p>
+<p style="text-align: center;">
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

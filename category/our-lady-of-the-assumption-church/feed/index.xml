@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Our Lady of the Assumption Church</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>A world where everyone holds the power to employ science and creativity for good.</description>
+	<lastBuildDate>Wed, 03 Feb 2016 20:35:44 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>The Sun at Night</title>
+		<link>./../../../sun-at-night/index.html</link>
+		
+		<dc:creator><![CDATA[Lindsay]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2016 13:18:17 +0000</pubDate>
+				<category><![CDATA[Events2016]]></category>
+		<category><![CDATA[Our Lady of the Assumption Church]]></category>
+		<category><![CDATA[SMASHfestUK Blog]]></category>
+		<category><![CDATA[SMASHfestUK2016]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1253</guid>
+
+					<description><![CDATA[Venue: Our Lady of the Assumption Church, Deptford High Street Time: Thursday to Saturday 17.00 – 22.00, drop-in Age Range: Suitable for all ages David Henckel &#160; Experience a year in the life of our nearest star as you have never seen or heard it before. The Sun at Night<a class="moretag" href="./../../../sun-at-night/index.html"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Venue:</strong> Our Lady of the Assumption Church, Deptford High Street</p>
+<p><strong>Time: </strong>Thursday to Saturday 17.00 – 22.00, drop-in</p>
+<p><strong>Age Range:</strong> Suitable for all ages <a href="./../../../wp-content/uploads/2016/02/sunatnight-1.jpg" rel="attachment wp-att-1254"><img loading="lazy" class="aligncenter size-full wp-image-1254" src="./../../../wp-content/uploads/2016/02/sunatnight-1.jpg" alt="sunatnight" width="960" height="640" srcset="./../../../wp-content/uploads/2016/02/sunatnight-1.jpg 960w, ./../../../wp-content/uploads/2016/02/sunatnight-1-300x200.jpg 300w, ./../../../wp-content/uploads/2016/02/sunatnight-1-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></a></p>
+<p><em>David Henckel</em></p>
+<p>&nbsp;</p>
+<p>Experience a year in the life of our nearest star as you have never seen or heard it before.</p>
+<p>The Sun at Night is a touring installation that creatively explores our relationship to the Sun utilising the research and stunning images taken by NASA’s Solar Dynamics Observatory. Science &amp; technology meet art and religion in a moving work that offers a space for contemplation and reflection on our place in the universe.</p>
+<p>&nbsp;</p>
+<p><em>Children must be supervised by parents/carers at all times.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
